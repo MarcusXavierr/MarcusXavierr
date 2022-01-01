@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&width=500&lines=Welcome+to+my+github+Profile!;My+name+is+Marcus;And+I+study+computer+science+at+UFOP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=false&size=25&width=700&lines=Welcome+to+my+github+Profile!;My+name+is+Marcus;And+I+study+computer+science+at+UFOP)](https://git.io/typing-svg)
+
 
 - 🌱 I’m currently learning C#/.NET
 - 👯 I’m looking to collaborate on Backend Projects
