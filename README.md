@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I'm a developer who doesn't like coffee
 
 ### 💻 Technologies with which I have experience
-<nobr>
+<div style="white-space: nowrap;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="50" />
@@ -18,7 +18,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain-wordmark.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="45" />
-</nobr>
+</div>
 
 
 
