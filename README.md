@@ -6,7 +6,7 @@
 - 📫 How to reach me: marcusxavierr123@gmail.com
 - ⚡ Fun fact: I'm a developer who doesn't like coffee
 
-### 💻 Technologies with which I have experience
+### 💻 Technologies I have experience with
 <div style="white-space: nowrap;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" />
