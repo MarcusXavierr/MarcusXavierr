@@ -6,6 +6,21 @@
 - 📫 How to reach me: marcusxavierr123@gmail.com
 - ⚡ Fun fact: I'm a developer who doesn't like coffee
 
+### 💻 Technologies with which I have experience
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="45" />
+
+
+
+
 <!--
 **MarcusXavierr/MarcusXavierr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
