@@ -21,7 +21,12 @@
 </div>
 
 
+## ⚙️ &nbsp;GitHub Analytics
 
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=MarcusXavierr&show_icons=true&theme=vision-friendly-dark" alt="MarcusXavierr's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusXavierr&layout=compact&theme=vision-friendly-dark" alt="MarcusXavierr's most languages"/>
+</p>
 <!--
 **MarcusXavierr/MarcusXavierr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
