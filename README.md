@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning C#/.NET
 - 👯 I’m looking to collaborate on Backend Projects
-- 📫 How to reach me: marcusxavierr123@gmail.com
+- 📫 How to reach me: marcus.xavier@aluno.ufop.edu.br
 - ⚡ Fun fact: I'm a developer who doesn't like coffee
 
 ### 💻 Technologies I have experience with
