@@ -18,6 +18,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain-wordmark.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" witdth="50">
 </div>
 
 
